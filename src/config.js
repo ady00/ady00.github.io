@@ -4,23 +4,23 @@ module.exports = {
   socialMedia: [
     {
       name: 'GitHub',
-      url: '',
+      url: 'https://www.github.com',
     },
     {
       name: 'Instagram',
-      url: '',
+      url: 'https://www.instagram.com',
     },
     {
       name: 'Twitter',
-      url: '',
+      url: 'https://www.twitter.com',
     },
     {
       name: 'Linkedin',
-      url: '',
+      url: 'https://www.linkedin.com/in/advay-bajpai-71389a244/',
     },
     {
       name: 'Codewars',
-      url: '',
+      url: 'https://www.codewars.com/users/Ady%20',
     },
   ],
 

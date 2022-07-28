@@ -5,7 +5,7 @@ module.exports = {
     title: 'Advay Bajpai',
     description:
       'Advay Bajpai is a software engineer who specializes in building and designing websites for clients. He is a sophomore at Foothill High School in Pleasanton, CA.',
-    siteUrl: 'http://advaybajpai.me', // No trailing slash allowed!
+    siteUrl: 'https://advaybajpai.me', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '',
   },
@@ -20,8 +20,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'BrittanyChiang',
-        short_name: 'BrittanyChiang',
+        name: 'AdvayBajpai',
+        short_name: 'AdvayBajpai',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
