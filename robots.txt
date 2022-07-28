@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: http://advaybajpai.me/resumeapp.github.io/sitemap/sitemap-index.xml
-Host: advaybajpai.me
+Sitemap: https://advaybajpai.me/sitemap/sitemap-index.xml
+Host: https://advaybajpai.me
