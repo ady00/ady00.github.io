@@ -105,8 +105,8 @@ const Footer = () => {
       </StyledSocialLinks>
 
       <StyledCredit tabindex="-1">
-        <a href="https://github.com/bchiang7/v4">
-          <div>Forked and adapted by Advay Bajpai. Designed &amp; Built by bchiang7.</div>
+        <a href="">
+          <div>Adapted and built by Advay Bajpai. Original design by B. Chiang.</div>
 
           {githubInfo.stars && githubInfo.forks && (
             <div className="github-stats">
