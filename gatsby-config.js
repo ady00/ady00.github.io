@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Advay Bajpai',
     description:
-      'Advay Bajpai is a software engineer who builds websites. He is a sophomore at Foothill High School in Pleasanton, CA.',
+      'Advay Bajpai is a software engineer who builds websites. He is a junior at Foothill High School in Pleasanton, CA.',
     siteUrl: 'https://advaybajpai.me', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '',

@@ -1,9 +1,9 @@
 ---
-date: 'March 2021'
+date: 'February 2021'
 title: 'STEM Tutor'
 company: 'LearnToBe'
 location: ''
-range: 'March 2021 - Current'
+range: 'February 2021 - Current'
 url: ''
 ---
 

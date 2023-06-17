@@ -135,27 +135,18 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Advay, and I'm a sophomore fullstack dev and data analyst in the Bay Area.
-              Mainly, I develop data apps and backends for clients. 
+              Hello! My name is Advay, and I'm a web dev in the Bay Area.
             </p>
-
             <p>
               I've competed in numerous data competitions and desgined a number of data visualizations and models 
               for buyers across the globe. I also develop fullstack apps for clients, but most of my experience is in
-              developing backends, particulary with Django, Flask, Spring, and Express.
+              developing frontends, particulary with Django, React, Next, and Node. 
             </p>
             <p>
-              Outside of CS, I enjoy watching and playing basketball. I'm an avid reader, and love reading science-fiction
-              and fantasy novels. I'm also a Jazz guitarist, in my school's Jazz program. Background-wise, I'm a first-generation
-              American with both of my parents having immigrated from India.
+              I'm also an avid competitive programmer -- I'm currently USACO Gold and contribute at usaco.guide, where I help 
+              millions of other USACO competitors learn, practice, and connect with others. 
             </p>
-
-            <p>Here are a few technologies I’ve been working with recently:</p>
           </div>
-
-          <ul className="skills-list">
-            {skills && skills.map((skill, i) => <li key={i}>{skill}</li>)}
-          </ul>
         </StyledText>
 
         <StyledPic>

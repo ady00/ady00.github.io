@@ -64,8 +64,8 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a high-school sophomore currently enrolled at Foothill High School. I'm a Fullstack dev and data analyst, and 
-        enjoy creating exceptional digital experiences. 
+        I’m a high-school junior currently enrolled at Foothill High School. I'm a fullstack dev who 
+        enjoys creating exceptional digital experiences. 
       </p>
     </>
   );

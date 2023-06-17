@@ -1,16 +1,17 @@
 ---
-date: '2022-03-01'
-title: 'A Study on Terrorism Worldwide'
-github: ''
-external: 'https://drive.google.com/file/d/1fg-RYrOyEhp4l0VPIpb7GxuLKYGtOmwm/view?usp=sharing'
+date: '2022-01-05'
+title: 'TodayILearned'
+github: 'https://github.com/ady00/build23'
+external: ''
 tech:
-  - Pandas
-  - Numpy
-  - Seaborn
-  - Folium
+  - NodeJS
+  - MongoDB
+  - React
 company: ''
 showInProjects: true
 ---
 
-A series of visualizations I created in order to document and analyze terrorism or terrorism-related incidents around the world. Did so using 
-a combination of seaborn, plotly, and matplotlib visualizations. 
+A daily learning platform where users can track what they learned each day and create 
+flashcards, quizzes, and other educational devices to help them keep track of their
+knowledge and learning progress. Won 2nd place at Build23, a high-school and
+collegiate-level hackathon with over 350 participants from across 20 universities. 

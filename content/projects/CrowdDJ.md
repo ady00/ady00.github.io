@@ -1,14 +1,14 @@
 ---
-date: '2017-03-01'
-title: 'Crowd DJ'
-github: 'https://github.com/crowddj/crowddj-react'
-external: ''
+date: '2023-03-01'
+title: 'Notify'
+github: ''
+external: 'https://notify-advay.netlify.app/'
 tech:
   - React
-  - Firebase
-  - Spotify API
-company: HackBeanpot 2017
-showInProjects: false
+  - TailwindCSS
+  - Radix UI
+company: Bay Area Hacks Society 2023
+showInProjects: true
 ---
 
-Web app that allows people to crowdsource a party's music queue. Allows people to request songs, upvote songs, rate songs, etc. so the DJ can see how the crowd is feeling and queue songs accordingly. Won Best UI/UX Design at Hackbeanpot 2017.
+Epick note-taking application that won Best Solo Hack at Bay Area Hacks Society (with over 300 individuals competing). Custom note-taking application to act like a bulletin board for notes (try it yourself trust)
