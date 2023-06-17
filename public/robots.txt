@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://advaybajpai.me/sitemap/sitemap-index.xml
+Host: https://advaybajpai.me

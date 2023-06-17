@@ -105,21 +105,8 @@ const Footer = () => {
       </StyledSocialLinks>
 
       <StyledCredit tabindex="-1">
-        <a href="">
-          <div>Adapted and built by Advay Bajpai. Original design by B. Chiang.</div>
-
-          {githubInfo.stars && githubInfo.forks && (
-            <div className="github-stats">
-              <span>
-                <Icon name="Star" />
-                <span>{githubInfo.stars.toLocaleString()}</span>
-              </span>
-              <span>
-                <Icon name="Fork" />
-                <span>{githubInfo.forks.toLocaleString()}</span>
-              </span>
-            </div>
-          )}
+        <a>
+          <div>Adapted by Advay Bajpai. Designed &amp; Built by bchiang7.</div>
         </a>
       </StyledCredit>
     </StyledFooter>
